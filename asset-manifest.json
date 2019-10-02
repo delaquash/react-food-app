@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-food-app/static/css/main.38d69cd5.chunk.css",
+    "main.js": "/react-food-app/static/js/main.5a10e2c8.chunk.js",
+    "main.js.map": "/react-food-app/static/js/main.5a10e2c8.chunk.js.map",
+    "runtime-main.js": "/react-food-app/static/js/runtime-main.ccd652a5.js",
+    "runtime-main.js.map": "/react-food-app/static/js/runtime-main.ccd652a5.js.map",
+    "static/js/2.6e8915e4.chunk.js": "/react-food-app/static/js/2.6e8915e4.chunk.js",
+    "static/js/2.6e8915e4.chunk.js.map": "/react-food-app/static/js/2.6e8915e4.chunk.js.map",
+    "index.html": "/react-food-app/index.html",
+    "precache-manifest.1431eb052a7481dd52eaae61250d66e5.js": "/react-food-app/precache-manifest.1431eb052a7481dd52eaae61250d66e5.js",
+    "service-worker.js": "/react-food-app/service-worker.js",
+    "static/css/main.38d69cd5.chunk.css.map": "/react-food-app/static/css/main.38d69cd5.chunk.css.map"
+  }
+}
