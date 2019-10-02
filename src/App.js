@@ -48,17 +48,17 @@ const updateSearch = e => {
         </button>
       </form>
         <div className="recipe">
-          {recipes.map(recipe =>
-          <Recipe
-            key={recipe.recipe.label}
-            title={recipe.recipe.label}
-            calories={recipe.recipe.calories}
-            image={recipe.recipe.image}
-            ingredients={recipe.recipe.ingredients}
-          />
-        )};
+              {recipes.map(recipe =>
+                  <Recipe
+                    key={recipe.recipe.label}
+                    title={recipe.recipe.label}
+                    calories={recipe.recipe.calories}
+                    image={recipe.recipe.image}
+                    ingredients={recipe.recipe.ingredients}
+                  />
+            )};
       </div>
-    </div>
+    </div>     
   );
 }
 
